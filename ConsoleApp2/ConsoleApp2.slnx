@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BT2/BT2.csproj" Id="924e749a-fa39-4153-9431-23d1672cbb69" />
+  <Project Path="../BT3/BT3.csproj" Id="4c085756-5da7-46c9-bcbf-4f1b94ed8f1c" />
+  <Project Path="BaiTap3.1.csproj" />
+</Solution>
