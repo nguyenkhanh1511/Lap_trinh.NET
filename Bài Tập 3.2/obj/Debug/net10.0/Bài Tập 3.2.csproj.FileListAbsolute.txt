@@ -1,0 +1,16 @@
+C:\Users\nguye\source\repos\Bài Tập 3.2\bin\Debug\net10.0\Bài Tập 3.2.exe
+C:\Users\nguye\source\repos\Bài Tập 3.2\bin\Debug\net10.0\Bài Tập 3.2.deps.json
+C:\Users\nguye\source\repos\Bài Tập 3.2\bin\Debug\net10.0\Bài Tập 3.2.runtimeconfig.json
+C:\Users\nguye\source\repos\Bài Tập 3.2\bin\Debug\net10.0\Bài Tập 3.2.dll
+C:\Users\nguye\source\repos\Bài Tập 3.2\bin\Debug\net10.0\Bài Tập 3.2.pdb
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.AssemblyInfo.cs
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.sourcelink.json
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.dll
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\refint\Bài Tập 3.2.dll
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.pdb
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\Bài Tập 3.2.genruntimeconfig.cache
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\ref\Bài Tập 3.2.dll
+C:\Users\nguye\source\repos\Bài Tập 3.2\obj\Debug\net10.0\B_i T_p .7DE237B3.Up2Date
