@@ -1,0 +1,15 @@
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\bin\Debug\net8.0\QuanLyPhuongTien.exe
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\bin\Debug\net8.0\QuanLyPhuongTien.deps.json
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\bin\Debug\net8.0\QuanLyPhuongTien.runtimeconfig.json
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\bin\Debug\net8.0\QuanLyPhuongTien.dll
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\bin\Debug\net8.0\QuanLyPhuongTien.pdb
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPhuongTien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPhuongTien.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPhuongTien.AssemblyInfo.cs
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPhuongTien.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPhuongTien.dll
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\refint\QuanLyPhuongTien.dll
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPhuongTien.pdb
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPhuongTien.genruntimeconfig.cache
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\ref\QuanLyPhuongTien.dll
+C:\Users\nguye\Downloads\kiemtra02 (2)\kiemtra01\Bai02\QuanLyPhuongTien\obj\Debug\net8.0\QuanLyPh.F53F4FDF.Up2Date
